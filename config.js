@@ -1,8 +1,8 @@
 // ========== KONFIGURASI BOT ==========
 
 // 1. Identitas Bot & Owner
-const TELEGRAM_BOT_TOKEN = '7742734429:AAFwqHetx5wcK0136Hxz2HxZ3T9aziidUFc'; 
-const OWNER_ID = 303599299;
+const TELEGRAM_BOT_TOKEN = '8724563891:AAF8WZ3aSXnTz0JySKT07Y2yJd4UOn8KPa0'; 
+const OWNER_ID = 7883659934;
 const USERNAME_OWNER = '@scuttlelollipopss'; 
 
 // 2. Syarat Join (Channel & Group)
