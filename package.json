@@ -1,0 +1,30 @@
+{
+  "name": "whatsapp fix zell",
+  "version": "4.0.0",
+  "description": "WhatsApp Bot dengan API Vercel untuk fitur /fix",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "telegram",
+    "bot",
+    "automation"
+  ],
+  "author": "zell",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "nodemailer": "^6.9.15",
+    "axios": "^1.6.2",
+    "archiver": "^7.0.1",
+    "node-cron": "^3.0.3",
+    "form-data": "^4.0.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
